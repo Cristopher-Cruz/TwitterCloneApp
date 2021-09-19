@@ -2,23 +2,18 @@
 
 # Twitter - Part II
 
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
+This is a basic twitter clone app to view, compose, favorite, and retweet tweets.
 
-Time spent: **3** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
-- [x] User can compose a tweet. (4pts)
-- [x] User can favorite a tweet. (4pts)
-- [x] User can retweet a tweet. (2pts)
+- [x] User can compose a tweet. 
+- [x] User can favorite a tweet.
+- [x] User can retweet a tweet.
 
 The following **bonus** features are implemented:
-
-- [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280) (2pts)
-- [ ] User can view their profile in a profile tab. (3pts)
-- [ ] User sees embedded images in tweet if available. (3pts)
 
 ## Video Walkthrough
 
@@ -28,25 +23,22 @@ Here's a walkthrough of implemented user stories:
 
 
 
+# Part 1
 
-**Twitter** is a basic twitter app to read your tweets.
-
-Time spent: **3** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
-- [X] User sees app icon in home screen and styled launch screen. (1pt)
-- [X] User can log in. (1pt)
-- [X] User can log out. (1pt)
-- [X] User stays logged in across restarts. (1pt)
-- [X] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [X] User sees app icon in home screen and styled launch screen.
+- [X] User can log in.
+- [X] User can log out.
+- [X] User stays logged in across restarts.
+- [X] User can view tweets with the user profile picture, username, and tweet text.
 
 The following **bonus** features are implemented:
 
 - [X] User can pull to refresh. (1pt)
-- [ ] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
 
