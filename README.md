@@ -13,8 +13,6 @@ The following functionality is completed:
 - [x] User can favorite a tweet.
 - [x] User can retweet a tweet.
 
-The following **bonus** features are implemented:
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
