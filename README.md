@@ -38,7 +38,7 @@ The following functionality is completed:
 
 The following **bonus** features are implemented:
 
-- [X] User can pull to refresh. (1pt)
+- [X] User can pull to refresh.
 
 ## Video Walkthrough
 
