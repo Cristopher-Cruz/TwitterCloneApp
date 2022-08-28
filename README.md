@@ -1,6 +1,7 @@
 # *Twitter App*
 
-A basic twitter clone app to view, compose, favorite, and retweet tweets.
+A basic twitter clone app to view, compose, favorite, and retweet tweets. 
+---
 
 
 # Part 1
